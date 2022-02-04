@@ -72,8 +72,8 @@ public class CustomerRestController {
     }
 	
 	@DeleteMapping("customer/{customerId}")
-	public void deleteStudent(@PathVariable long id) {
-		customer=db.find(Customerid.class, ""+id+"");
+	public void deleteStudent(@PathVariable String customerId) {
+		customer=db.find(Customerid.class, ""+customerId+"");
 			Response remove = db.remove(customer.get_id());
 	}
 	
