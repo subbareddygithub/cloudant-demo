@@ -70,4 +70,11 @@ public class CustomerRestController {
     
         return customer;
     }
+	
+	@DeleteMapping("customer/{customerId}")
+	public void deleteStudent(@PathVariable long id) {
+		customer=db.find(Customerid.class, ""+id+"");
+			Response remove = db.remove(customer.get_id());
+	}
+	
 }
