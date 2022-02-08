@@ -51,7 +51,7 @@ public class CustomerRestController {
 	
 	
  
-	@GetMapping("{customerId}")
+	@GetMapping("/getbyid/{customerId}")
     public @ResponseBody Customerid getByID(@PathVariable String customerId) {
     	
     	Customerid customer=null;
