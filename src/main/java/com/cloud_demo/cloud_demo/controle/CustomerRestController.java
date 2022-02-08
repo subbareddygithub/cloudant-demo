@@ -24,10 +24,12 @@ import com.cloudant.client.api.model.Response;
 
 @RestController
 public class CustomerRestController {
+	
 	@Autowired
 	private CloudantClient client;
 	private Database db;
-    // Create a new customer
+    
+	// Create a new customer
 	@PostMapping("save")
     public @ResponseBody String saveReview(@RequestBody Customer cust) {
     	db = client.database("customer", false);
@@ -64,8 +66,6 @@ public class CustomerRestController {
     	err.printStackTrace();
     	
     }
-        
-        System.out.println("customer========>" +customer);
     
         return customer;
     }
