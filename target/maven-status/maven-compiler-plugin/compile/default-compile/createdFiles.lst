@@ -1,0 +1,6 @@
+com\cloud_demo\cloud_demo\bean\Customerid.class
+com\cloud_demo\cloud_demo\CloudDemoApplication.class
+com\cloud_demo\cloud_demo\controle\EmployeeController.class
+com\cloud_demo\cloud_demo\controle\CustomerRestController.class
+com\cloud_demo\cloud_demo\bean\Employee.class
+com\cloud_demo\cloud_demo\controle\Customer.class
