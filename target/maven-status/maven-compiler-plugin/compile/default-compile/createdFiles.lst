@@ -1,6 +1,11 @@
 com\cloud_demo\cloud_demo\bean\Customerid.class
+com\cloud_demo\cloud_demo\model\BianCustomerRequest.class
+com\cloud_demo\cloud_demo\model\Employee.class
+com\cloud_demo\cloud_demo\model\BianAccountOpeningRequest.class
+com\cloud_demo\cloud_demo\model\Customer.class
+com\cloud_demo\cloud_demo\controle\BianAccountOpeningController.class
 com\cloud_demo\cloud_demo\CloudDemoApplication.class
-com\cloud_demo\cloud_demo\controle\EmployeeController.class
+com\cloud_demo\cloud_demo\model\BianLoginRequest.class
 com\cloud_demo\cloud_demo\controle\CustomerRestController.class
-com\cloud_demo\cloud_demo\bean\Employee.class
+com\cloud_demo\cloud_demo\controle\BianLoginController.class
 com\cloud_demo\cloud_demo\controle\Customer.class

@@ -1,6 +1,11 @@
-C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\bean\Employee.java
+C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\model\Customer.java
 C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\bean\Customerid.java
 C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\CloudDemoApplication.java
+C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\model\BianAccountOpeningRequest.java
+C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\model\BianCustomerRequest.java
+C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\controle\BianLoginController.java
 C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\controle\CustomerRestController.java
 C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\controle\Customer.java
-C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\controle\EmployeeController.java
+C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\model\Employee.java
+C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\controle\BianAccountOpeningController.java
+C:\Users\002WLD744\Documents\Git\cloudant-demo\src\main\java\com\cloud_demo\cloud_demo\model\BianLoginRequest.java
